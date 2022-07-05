@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "target": "es5", //어떤 버전으로 컴파일할지 작성 
+        "module": "commonjs",
+
+    },
+    "include": ["**/*.ts","**/*.tsx"]
+}
